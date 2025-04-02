@@ -3,7 +3,7 @@
 ## **Overview**  
 This repository contains Simulink models of closed-loop controlled power converters. These models implement feedback-based control strategies to enhance stability and performance.  
 
-Currently, the repository includes a **closed-loop buck converter** and **closed-loop boost converter** and more simulations (such as rectifiers, buck-boost converters, and inverters) will be added over time.  
+Currently, the repository includes a **closed-loop buck converter** and **closed-loop boost converter** and more simulations (such as buck-boost converters) will be added over time.  
 
 ## **Contents**  
 - **Closed-Loop Buck Converter** 
@@ -16,9 +16,7 @@ Currently, the repository includes a **closed-loop buck converter** and **closed
   - Adjustable input and reference voltage for dynamic testing.
 
 ## **Upcoming Simulations**  
-- Closed-loop boost converter  
 - Closed-loop buck-boost converter  
-- inverter models  
 - More advanced power converter simulations
 
 ## **Requirements**  
