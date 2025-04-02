@@ -6,14 +6,14 @@ This repository contains Simulink models of closed-loop controlled power convert
 Currently, the repository includes a **closed-loop buck converter**, and more simulations (such as rectifiers, buck-boost converters, and inverters) will be added over time.  
 
 ## **Contents**  
-- **Closed-Loop Buck Converter**  
+- **Closed-Loop Buck Converter** 
   - Implements a feedback control loop to regulate output voltage.  
-  - Uses a PID controller for stability and dynamic response.  
+  - Uses a PID controller for stability and dynamic response.
   - Suitable for power electronics and control system studies.
  
 - **Closed-Loop Boost Converter**
-  -The model includes a PWM-based control system with a PID controller to regulate the output voltage.
-  -Adjustable input and reference voltage for dynamic testing.
+  - The model includes a PWM-based control system with a PID controller to regulate the output voltage.
+  - Adjustable input and reference voltage for dynamic testing.
 
 ## **Upcoming Simulations**  
 - Closed-loop boost converter  
